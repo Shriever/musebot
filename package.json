@@ -1,0 +1,21 @@
+{
+  "name": "musebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/musebot.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jzz": "^1.4.0",
+    "jzz-midi-smf": "^1.6.2",
+    "midi-player-js": "^2.0.14",
+    "scribbletune": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.4"
+  }
+}
